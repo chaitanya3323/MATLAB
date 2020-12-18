@@ -1,0 +1,5 @@
+trans_efficiency
+50
+40000
+9000
+0.8
